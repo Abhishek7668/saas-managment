@@ -1,0 +1,46 @@
+/* Home.css */
+
+.card {
+    border-radius: 15px;
+}
+
+.card-header-basic {
+    background-color: #007bff; /* Blue */
+    color: white;
+}
+
+.card-header-standard {
+    background-color: #28a745; /* Green */
+    color: white;
+}
+
+.card-header-premium {
+    background-color: #ffc107; /* Yellow */
+    color: white;
+}
+
+.card-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    font-size: 1.25rem;
+    color: #666;
+    margin-bottom: 1rem;
+}
+
+.btn {
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+.cart h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.list-group-item {
+    font-size: 1.25rem;
+}
